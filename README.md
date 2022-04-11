@@ -15,6 +15,6 @@ The approach here is using requests library to fetch the webpage and beautifulso
 
 Each task is implemented in a seperate function within the helper.py file
 
-The script.py is the one where the user ininput is parsed to make appropriate request and GET the data
+The script.py is the one where the user input is parsed to make appropriate request and GET the data
 
 further functions are called upon with appropriate parameters to parse the relevant data.
