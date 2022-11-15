@@ -80,3 +80,4 @@ virtualenv==20.13.1
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.2
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
