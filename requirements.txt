@@ -29,7 +29,7 @@ jsonschema==4.4.0
 jupyter==1.0.0
 jupyter-client==7.1.2
 jupyter-console==6.4.3
-jupyter-core==4.9.2
+jupyter-core==4.11.2
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.2
 lxml==4.9.1
@@ -80,3 +80,4 @@ virtualenv==20.13.1
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.2
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
